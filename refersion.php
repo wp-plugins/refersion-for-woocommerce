@@ -141,7 +141,7 @@ function refersion_config() {
 					<tr valign="top">
 						<th scope="row" style="white-space: nowrap"><label>Your Refersion Public API Key:</label></th>
 						<td style="width: 100%">
-							<input type="text" name="refersion_api_key" value="<?php echo $refersion_api_key; ?>" />
+							<input type="text" name="refersion_api_key" style="width: 250px;" value="<?php echo $refersion_api_key; ?>" />
 							<a href="https://refersion.uservoice.com/knowledgebase/articles/337317-where-can-i-find-my-refersion-public-api-key" target="_blank">Where do I find this?</a>
 						</td>
 					</tr>

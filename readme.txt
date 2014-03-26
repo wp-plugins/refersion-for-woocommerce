@@ -1,4 +1,4 @@
-=== Refersion Order Tracking ===
+=== Refersion for WooCommerce ===
 Contributors: refersion
 Tags: refersion
 Requires at least: 3.8.1
@@ -24,6 +24,9 @@ Here are some additional features that you can expect in Refersion:
 == Installation ==
 1. Upload `refersion.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+1. Install Refersion tracking using an easy to use interface. 
 
 == Changelog ==
 v1.0
