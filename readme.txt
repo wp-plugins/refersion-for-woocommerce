@@ -22,11 +22,11 @@ Here are some additional features that you can expect in Refersion:
 * Swift support
 
 == Installation ==
-1. Upload `refersion.php` to the `/wp-content/plugins/` directory
+1. Upload the `refersion-for-woocommerce` directory into the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
-1. Install Refersion tracking using an easy to use interface. 
+1. Install Refersion tracking using an easy to use interface
 
 == Changelog ==
 v1.0
