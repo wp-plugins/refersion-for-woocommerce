@@ -27,7 +27,7 @@ Here are some additional features that you can expect in Refersion:
 
 == Screenshots ==
 1. Your own customized Refersion dashboard.
-2. Install Refersion tracking using an easy to use interface
+2. Install Refersion tracking using an easy to use interface.
 
 == Changelog ==
 v1.0
