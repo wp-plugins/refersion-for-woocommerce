@@ -26,7 +26,8 @@ Here are some additional features that you can expect in Refersion:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
-1. Install Refersion tracking using an easy to use interface
+1. Your own customized Refersion dashboard.
+2. Install Refersion tracking using an easy to use interface
 
 == Changelog ==
 v1.0
